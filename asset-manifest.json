@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weather-react-app/static/css/main.ec9264ed.chunk.css",
+    "main.js": "/weather-react-app/static/js/main.bebdd8c6.chunk.js",
+    "main.js.map": "/weather-react-app/static/js/main.bebdd8c6.chunk.js.map",
+    "runtime-main.js": "/weather-react-app/static/js/runtime-main.6f2345cf.js",
+    "runtime-main.js.map": "/weather-react-app/static/js/runtime-main.6f2345cf.js.map",
+    "static/css/2.285ae99f.chunk.css": "/weather-react-app/static/css/2.285ae99f.chunk.css",
+    "static/js/2.4db086d3.chunk.js": "/weather-react-app/static/js/2.4db086d3.chunk.js",
+    "static/js/2.4db086d3.chunk.js.map": "/weather-react-app/static/js/2.4db086d3.chunk.js.map",
+    "index.html": "/weather-react-app/index.html",
+    "precache-manifest.de497341e4c39c2c8d9e4b180e6bbe1d.js": "/weather-react-app/precache-manifest.de497341e4c39c2c8d9e4b180e6bbe1d.js",
+    "service-worker.js": "/weather-react-app/service-worker.js",
+    "static/css/2.285ae99f.chunk.css.map": "/weather-react-app/static/css/2.285ae99f.chunk.css.map",
+    "static/css/main.ec9264ed.chunk.css.map": "/weather-react-app/static/css/main.ec9264ed.chunk.css.map",
+    "static/js/2.4db086d3.chunk.js.LICENSE.txt": "/weather-react-app/static/js/2.4db086d3.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/weather-react-app/static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/loader.gif": "/weather-react-app/static/media/loader.18be94cf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2345cf.js",
+    "static/css/2.285ae99f.chunk.css",
+    "static/js/2.4db086d3.chunk.js",
+    "static/css/main.ec9264ed.chunk.css",
+    "static/js/main.bebdd8c6.chunk.js"
+  ]
+}
